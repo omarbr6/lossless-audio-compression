@@ -25,3 +25,5 @@ At the reconstructing part, as we don't have the original signal yet, we cannot 
 --IMG
 
 ## Pre-processor
+Below we can find the pre-processor schema.
+-- IMG
